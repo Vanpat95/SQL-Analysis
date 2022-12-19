@@ -1,3 +1,3 @@
 # sql-challenge
 
-  Performed data modeling, data engineering, and data analysis using SQL.
+    Performed data modeling, data engineering, and data analysis using SQL.
